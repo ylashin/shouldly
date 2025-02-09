@@ -49,3 +49,5 @@ dotnet add package Shouldly
 
 ## Contributing
 Contributions to Shouldly are very welcome. For guidance, please see [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Copyright 2025.
